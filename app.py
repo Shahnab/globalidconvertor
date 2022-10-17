@@ -5,7 +5,7 @@ import pandas as pd
 
 #Header
 st.set_page_config(page_title='Advertising ID convertor')
-st.image('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dentsu-logo_black.svg/2560px-Dentsu-logo_black.svg.png', width=250)
+#st.image('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dentsu-logo_black.svg/2560px-Dentsu-logo_black.svg.png', width=250)
 st.image('https://marketingedge.com.ng/wp-content/uploads/2016/11/css.jpg', width=100)
 st.title("CCS- Advertising ID convertor")
 st.subheader("Upload your Global IDs")
